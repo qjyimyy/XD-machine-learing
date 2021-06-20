@@ -1,0 +1,13 @@
+README.rst
+setup.py
+mifs/__init__.py
+mifs/mi.py
+mifs/mifs.py
+mifs/setup.py
+mifs/version.py
+mifs.egg-info/PKG-INFO
+mifs.egg-info/SOURCES.txt
+mifs.egg-info/dependency_links.txt
+mifs.egg-info/not-zip-safe
+mifs.egg-info/requires.txt
+mifs.egg-info/top_level.txt
